@@ -21,13 +21,15 @@ Steps
  
  
 <b>Dependencies</b><br>
-This app uses following external libraries:
+<p>This app uses following external libraries:</p>
 
-react
-react-native
-react-navigation
-redux and react-redux
-expo
-react-native-elements
+<ul>
+	<li>react</li>
+	<li>react-native</li>
+	<li>react-navigation</li>
+	<li>redux and react-redux</li>
+	<li>expo</li>
+	<li>react-native-elements</li>
+</ul>
  
 
