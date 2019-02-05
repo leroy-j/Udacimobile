@@ -1,7 +1,7 @@
 <h2>Udacicards FlashCards Project</h2>
 
-Udacicards is a react-natiive app was created to fulfill partial requirements for Udacity Professional react developer 
-It was developed to work on both IOS and Android plat forms but primaily IOS
+Udacicards is a react-natiive app created to fulfill partial requirements for Udacity Professional react developer certification 
+It was developed to work primaily on IOS but will also work on Android. 
 
 <b>Installation instructions</b>
 
