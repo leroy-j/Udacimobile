@@ -36,7 +36,7 @@ Steps
 
 <div id="about">
 	
-<b>Why this project?</b><br>
+<b>This Udacity Project</b><br>
 This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input. By building this project, you will gain an understanding of how to use React Native to build an iOS and Android application.
 
 Specification
@@ -44,7 +44,7 @@ You'll create your project using create-react-native-app. There will be no start
 
 The specification provided in this rubric is the minimum required for this project. You may extend your project however you'd like.
 
-Specific Requirements
+<b>Specific Requirements</b><br>
 Use create-react-native-app to build your project.
 Allow users to create a deck which can hold an unlimited number of cards.
 Allow users to add a card to a specific deck.
