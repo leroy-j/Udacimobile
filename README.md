@@ -20,7 +20,7 @@ Steps
  4.  Open the Android or iOS simulator and follow expo instructions: "Press a to open Android device or emulator, or i to open iOS   emulator."
  
  
-<b>Dependencies</b>
+<b>Dependencies</b><br>
 This app uses following external libraries:
 
 react
