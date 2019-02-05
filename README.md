@@ -17,6 +17,17 @@ Steps
  2. Run "npm install" in your local repository's folder
     $ npm install or $ yarn install
  3. Start the app with "npm start"
+ 4.  Open the Android or iOS simulator and follow expo instructions: "Press a to open Android device or emulator, or i to open iOS   emulator."
+ 
+ 
+<b>Dependencies</b>
+This app uses following external libraries:
 
- Open the Android or iOS simulator and follow expo instructions: "Press a to open Android device or emulator, or i to open iOS emulator."
+react
+react-native
+react-navigation
+redux and react-redux
+expo
+react-native-elements
+ 
 
