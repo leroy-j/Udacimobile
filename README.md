@@ -39,14 +39,11 @@ Steps
 <b>This Udacity Project</b><br>
 This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input.
 
-<b>Specific Requirements</b><br>
-Use create-react-native-app.
-Allow users to create a deck which can hold an unlimited number of cards.
-Allow users to add a card to a specific deck.
-The front of the card should display the question.
-The back of the card should display the answer.
-Users should be able to quiz themselves on a specific deck and receive a score once they're done.
-Users should receive a notification to remind themselves to study if they haven't already for that day.	
+<b>Specific Features</b><br>
+Allow users to create a deck which can hold an unlimited number of cards. 
+Allow users to add a card to a specific deck. The front of the card displays the question. The back of the card displays the answer. 
+Users are able to quiz themselves on a specific deck and receive a score once they're done. 
+Users will receive a notification to remind themselves to study if they haven't already for that day.	
 	
 </div>	
  
